@@ -1,0 +1,679 @@
+﻿"VAR","Variable","UNIT","Mesure","COU","Pays","YEA","Année","Value","Flag Codes","Flags"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUS","Australie","2000","2000",2.49,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUS","Australie","2001","2001",2.56,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUS","Australie","2002","2002",2.56,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUS","Australie","2003","2003",2.63,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUS","Australie","2004","2004",2.71,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUS","Australie","2005","2005",2.78,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUS","Australie","2006","2006",2.84,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUS","Australie","2007","2007",3.01,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUS","Australie","2008","2008",3.02,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUS","Australie","2009","2009",3.12,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUS","Australie","2011","2011",3.32,"E; B","Valeur estimée; Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUS","Australie","2012","2012",3.31,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUS","Australie","2013","2013",3.37,"E; B","Valeur estimée; Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUS","Australie","2014","2014",3.45,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUS","Australie","2015","2015",3.51,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUS","Australie","2016","2016",3.58,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUS","Australie","2017","2017",3.68,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUS","Australie","2018","2018",3.75,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUS","Australie","2019","2019",3.83,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUT","Autriche","2000","2000",3.85,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUT","Autriche","2001","2001",3.96,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUT","Autriche","2002","2002",4.03,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUT","Autriche","2003","2003",4.11,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUT","Autriche","2004","2004",4.2,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUT","Autriche","2005","2005",4.32,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUT","Autriche","2006","2006",4.45,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUT","Autriche","2007","2007",4.54,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUT","Autriche","2008","2008",4.6,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUT","Autriche","2009","2009",4.69,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUT","Autriche","2010","2010",4.8,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUT","Autriche","2011","2011",4.84,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUT","Autriche","2012","2012",4.9,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUT","Autriche","2013","2013",4.99,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUT","Autriche","2014","2014",5.05,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUT","Autriche","2015","2015",5.09,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUT","Autriche","2016","2016",5.13,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUT","Autriche","2017","2017",5.18,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUT","Autriche","2018","2018",5.24,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUT","Autriche","2019","2019",5.32,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","AUT","Autriche","2020","2020",5.36,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BEL","Belgique","2000","2000",2.83,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BEL","Belgique","2001","2001",2.85,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BEL","Belgique","2002","2002",2.86,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BEL","Belgique","2003","2003",2.86,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BEL","Belgique","2004","2004",2.87,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BEL","Belgique","2005","2005",2.87,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BEL","Belgique","2006","2006",2.89,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BEL","Belgique","2007","2007",2.91,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BEL","Belgique","2008","2008",2.92,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BEL","Belgique","2009","2009",2.92,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BEL","Belgique","2010","2010",2.92,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BEL","Belgique","2011","2011",2.92,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BEL","Belgique","2012","2012",2.93,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BEL","Belgique","2013","2013",2.96,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BEL","Belgique","2014","2014",2.98,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BEL","Belgique","2015","2015",3.02,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BEL","Belgique","2016","2016",3.07,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BEL","Belgique","2017","2017",3.08,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BEL","Belgique","2018","2018",3.13,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BEL","Belgique","2019","2019",3.16,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CAN","Canada","2000","2000",2.01,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CAN","Canada","2001","2001",2.01,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CAN","Canada","2002","2002",2.02,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CAN","Canada","2003","2003",2.02,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CAN","Canada","2004","2004",2.04,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CAN","Canada","2005","2005",2.07,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CAN","Canada","2006","2006",2.08,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CAN","Canada","2007","2007",2.12,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CAN","Canada","2008","2008",2.17,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CAN","Canada","2009","2009",2.24,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CAN","Canada","2010","2010",2.28,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CAN","Canada","2011","2011",2.35,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CAN","Canada","2012","2012",2.41,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CAN","Canada","2013","2013",2.46,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CAN","Canada","2014","2014",2.51,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CAN","Canada","2015","2015",2.56,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CAN","Canada","2016","2016",2.62,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CAN","Canada","2017","2017",2.66,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CAN","Canada","2018","2018",2.72,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CAN","Canada","2019","2019",2.74,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CAN","Canada","2020","2020",2.76,"E; P","Valeur estimée; Valeur provisoire"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CZE","République tchèque","2000","2000",3.37,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CZE","République tchèque","2001","2001",3.45,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CZE","République tchèque","2002","2002",3.51,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CZE","République tchèque","2003","2003",3.53,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CZE","République tchèque","2004","2004",3.52,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CZE","République tchèque","2005","2005",3.56,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CZE","République tchèque","2006","2006",3.57,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CZE","République tchèque","2007","2007",3.57,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CZE","République tchèque","2008","2008",3.56,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CZE","République tchèque","2009","2009",3.58,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CZE","République tchèque","2010","2010",3.6,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CZE","République tchèque","2011","2011",3.64,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CZE","République tchèque","2012","2012",3.67,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CZE","République tchèque","2013","2013",3.69,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CZE","République tchèque","2018","2018",4.04,"E; B","Valeur estimée; Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CZE","République tchèque","2019","2019",4.07,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DNK","Danemark","2000","2000",2.91,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DNK","Danemark","2001","2001",2.93,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DNK","Danemark","2002","2002",3.04,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DNK","Danemark","2003","2003",3.08,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DNK","Danemark","2004","2004",3.23,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DNK","Danemark","2005","2005",3.33,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DNK","Danemark","2006","2006",3.42,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DNK","Danemark","2007","2007",3.46,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DNK","Danemark","2008","2008",3.58,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DNK","Danemark","2009","2009",3.65,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DNK","Danemark","2010","2010",3.73,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DNK","Danemark","2011","2011",3.79,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DNK","Danemark","2012","2012",3.84,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DNK","Danemark","2013","2013",3.85,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DNK","Danemark","2014","2014",3.88,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DNK","Danemark","2015","2015",3.93,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DNK","Danemark","2016","2016",4,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DNK","Danemark","2017","2017",4.11,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DNK","Danemark","2018","2018",4.19,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FIN","Finlande","2000","2000",2.5,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FIN","Finlande","2001","2001",2.5,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FIN","Finlande","2002","2002",2.53,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FIN","Finlande","2003","2003",2.56,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FIN","Finlande","2004","2004",2.59,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FIN","Finlande","2005","2005",2.63,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FIN","Finlande","2006","2006",2.68,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FIN","Finlande","2007","2007",2.69,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FIN","Finlande","2008","2008",2.72,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FIN","Finlande","2009","2009",2.83,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FIN","Finlande","2010","2010",2.99,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FIN","Finlande","2011","2011",2.99,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FIN","Finlande","2012","2012",3.07,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FIN","Finlande","2013","2013",3.15,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FIN","Finlande","2014","2014",3.21,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FRA","France","2000","2000",3.02,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FRA","France","2001","2001",3.05,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FRA","France","2002","2002",3.07,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FRA","France","2003","2003",3.08,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FRA","France","2004","2004",3.1,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FRA","France","2005","2005",3.1,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FRA","France","2006","2006",3.09,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FRA","France","2007","2007",3.07,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FRA","France","2008","2008",3.07,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FRA","France","2009","2009",3.03,"E; B","Valeur estimée; Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FRA","France","2010","2010",3.04,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FRA","France","2011","2011",3.06,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FRA","France","2012","2012",3.07,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FRA","France","2013","2013",3.09,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FRA","France","2014","2014",3.09,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FRA","France","2015","2015",3.11,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FRA","France","2016","2016",3.12,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FRA","France","2017","2017",3.14,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FRA","France","2018","2018",3.14,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","FRA","France","2019","2019",3.17,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DEU","Allemagne","2000","2000",3.25,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DEU","Allemagne","2001","2001",3.29,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DEU","Allemagne","2002","2002",3.32,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DEU","Allemagne","2003","2003",3.35,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DEU","Allemagne","2004","2004",3.37,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DEU","Allemagne","2005","2005",3.4,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DEU","Allemagne","2006","2006",3.44,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DEU","Allemagne","2007","2007",3.49,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DEU","Allemagne","2008","2008",3.54,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DEU","Allemagne","2009","2009",3.62,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DEU","Allemagne","2010","2010",3.71,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DEU","Allemagne","2011","2011",3.88,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DEU","Allemagne","2012","2012",3.95,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DEU","Allemagne","2013","2013",4.04,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DEU","Allemagne","2014","2014",4.11,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DEU","Allemagne","2015","2015",4.14,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DEU","Allemagne","2016","2016",4.19,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DEU","Allemagne","2017","2017",4.25,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DEU","Allemagne","2018","2018",4.31,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DEU","Allemagne","2019","2019",4.39,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","DEU","Allemagne","2020","2020",4.47,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","HUN","Hongrie","2000","2000",2.68,"E; B","Valeur estimée; Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","HUN","Hongrie","2001","2001",2.89,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","HUN","Hongrie","2002","2002",3.19,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","HUN","Hongrie","2003","2003",3.25,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","HUN","Hongrie","2004","2004",3.34,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","HUN","Hongrie","2005","2005",2.78,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","HUN","Hongrie","2006","2006",3.04,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","HUN","Hongrie","2007","2007",2.8,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","HUN","Hongrie","2008","2008",3.09,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","HUN","Hongrie","2009","2009",3.02,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","HUN","Hongrie","2010","2010",2.87,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","HUN","Hongrie","2011","2011",2.96,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","HUN","Hongrie","2012","2012",3.09,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","HUN","Hongrie","2013","2013",3.21,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","HUN","Hongrie","2014","2014",3.32,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","HUN","Hongrie","2015","2015",3.1,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","HUN","Hongrie","2016","2016",3.21,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","HUN","Hongrie","2017","2017",3.32,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","HUN","Hongrie","2018","2018",3.38,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","HUN","Hongrie","2019","2019",3.49,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISL","Islande","2000","2000",3.44,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISL","Islande","2001","2001",3.47,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISL","Islande","2002","2002",3.58,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISL","Islande","2003","2003",3.62,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISL","Islande","2004","2004",3.62,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISL","Islande","2005","2005",3.61,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISL","Islande","2006","2006",3.6,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISL","Islande","2007","2007",3.61,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISL","Islande","2008","2008",3.64,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISL","Islande","2009","2009",3.65,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISL","Islande","2010","2010",3.59,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISL","Islande","2011","2011",3.5,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISL","Islande","2012","2012",3.56,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISL","Islande","2013","2013",3.61,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISL","Islande","2014","2014",3.64,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISL","Islande","2015","2015",3.78,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISL","Islande","2016","2016",3.85,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISL","Islande","2017","2017",3.87,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISL","Islande","2018","2018",3.89,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISL","Islande","2019","2019",3.89,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IRL","Irlande","2011","2011",2.67,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IRL","Irlande","2012","2012",2.71,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IRL","Irlande","2013","2013",2.67,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IRL","Irlande","2014","2014",3.01,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IRL","Irlande","2015","2015",3.12,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IRL","Irlande","2016","2016",3.19,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IRL","Irlande","2017","2017",3.26,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IRL","Irlande","2018","2018",3.28,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IRL","Irlande","2019","2019",3.32,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IRL","Irlande","2020","2020",3.47,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ITA","Italie","2000","2000",3.44,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ITA","Italie","2001","2001",3.51,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ITA","Italie","2002","2002",3.57,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ITA","Italie","2003","2003",3.63,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ITA","Italie","2004","2004",3.7,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ITA","Italie","2005","2005",3.72,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ITA","Italie","2006","2006",3.72,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ITA","Italie","2007","2007",3.8,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ITA","Italie","2008","2008",3.79,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ITA","Italie","2009","2009",3.79,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ITA","Italie","2010","2010",3.82,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ITA","Italie","2011","2011",3.9,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ITA","Italie","2012","2012",3.87,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ITA","Italie","2013","2013",3.9,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ITA","Italie","2014","2014",3.88,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ITA","Italie","2015","2015",3.84,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ITA","Italie","2016","2016",3.95,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ITA","Italie","2017","2017",3.99,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ITA","Italie","2018","2018",3.98,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ITA","Italie","2019","2019",4.05,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ITA","Italie","2020","2020",4,"P","Valeur provisoire"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","JPN","Japon","2000","2000",1.93,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","JPN","Japon","2002","2002",1.98,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","JPN","Japon","2004","2004",2.03,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","JPN","Japon","2006","2006",2.08,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","JPN","Japon","2008","2008",2.15,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","JPN","Japon","2010","2010",2.21,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","JPN","Japon","2012","2012",2.29,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","JPN","Japon","2014","2014",2.36,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","JPN","Japon","2016","2016",2.43,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","JPN","Japon","2018","2018",2.49,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","KOR","Corée","2000","2000",1.3,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","KOR","Corée","2001","2001",1.39,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","KOR","Corée","2002","2002",1.49,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","KOR","Corée","2003","2003",1.57,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","KOR","Corée","2004","2004",1.56,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","KOR","Corée","2005","2005",1.63,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","KOR","Corée","2006","2006",1.69,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","KOR","Corée","2007","2007",1.73,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","KOR","Corée","2008","2008",1.85,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","KOR","Corée","2009","2009",1.92,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","KOR","Corée","2010","2010",1.98,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","KOR","Corée","2011","2011",2.03,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","KOR","Corée","2012","2012",2.07,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","KOR","Corée","2013","2013",2.16,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","KOR","Corée","2014","2014",2.2,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","KOR","Corée","2015","2015",2.24,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","KOR","Corée","2016","2016",2.29,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","KOR","Corée","2017","2017",2.35,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","KOR","Corée","2018","2018",2.39,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","KOR","Corée","2019","2019",2.46,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LUX","Luxembourg","2000","2000",2.15,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LUX","Luxembourg","2001","2001",2.21,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LUX","Luxembourg","2002","2002",2.26,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LUX","Luxembourg","2003","2003",2.38,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LUX","Luxembourg","2004","2004",2.42,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LUX","Luxembourg","2005","2005",2.55,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LUX","Luxembourg","2006","2006",2.61,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LUX","Luxembourg","2007","2007",2.68,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LUX","Luxembourg","2008","2008",2.72,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LUX","Luxembourg","2009","2009",2.7,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LUX","Luxembourg","2010","2010",2.77,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LUX","Luxembourg","2011","2011",2.78,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LUX","Luxembourg","2012","2012",2.81,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LUX","Luxembourg","2013","2013",2.83,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LUX","Luxembourg","2014","2014",2.88,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LUX","Luxembourg","2015","2015",2.91,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LUX","Luxembourg","2016","2016",2.88,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LUX","Luxembourg","2017","2017",2.98,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","MEX","Mexique","2000","2000",1.63,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","MEX","Mexique","2001","2001",1.52,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","MEX","Mexique","2002","2002",1.53,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","MEX","Mexique","2003","2003",1.58,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","MEX","Mexique","2004","2004",1.66,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","MEX","Mexique","2005","2005",1.77,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","MEX","Mexique","2006","2006",1.89,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","MEX","Mexique","2007","2007",1.93,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","MEX","Mexique","2008","2008",1.96,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","MEX","Mexique","2009","2009",1.99,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","MEX","Mexique","2010","2010",2,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","MEX","Mexique","2011","2011",2.11,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","MEX","Mexique","2012","2012",2.12,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","MEX","Mexique","2013","2013",2.16,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","MEX","Mexique","2014","2014",2.23,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","MEX","Mexique","2015","2015",2.33,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","MEX","Mexique","2016","2016",2.34,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","MEX","Mexique","2017","2017",2.4,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","MEX","Mexique","2018","2018",2.44,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","MEX","Mexique","2019","2019",2.44,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NLD","Pays-Bas","2014","2014",3.42,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NLD","Pays-Bas","2015","2015",3.49,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NLD","Pays-Bas","2016","2016",3.54,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NLD","Pays-Bas","2017","2017",3.6,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NLD","Pays-Bas","2018","2018",3.67,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NLD","Pays-Bas","2019","2019",3.72,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NZL","Nouvelle-Zélande","2000","2000",2.23,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NZL","Nouvelle-Zélande","2001","2001",2.19,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NZL","Nouvelle-Zélande","2002","2002",2.13,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NZL","Nouvelle-Zélande","2003","2003",2.17,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NZL","Nouvelle-Zélande","2004","2004",2.19,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NZL","Nouvelle-Zélande","2005","2005",2.11,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NZL","Nouvelle-Zélande","2006","2006",2.27,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NZL","Nouvelle-Zélande","2007","2007",2.3,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NZL","Nouvelle-Zélande","2008","2008",2.46,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NZL","Nouvelle-Zélande","2009","2009",2.58,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NZL","Nouvelle-Zélande","2010","2010",2.62,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NZL","Nouvelle-Zélande","2011","2011",2.65,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NZL","Nouvelle-Zélande","2012","2012",2.72,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NZL","Nouvelle-Zélande","2013","2013",2.83,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NZL","Nouvelle-Zélande","2014","2014",2.89,"E; B","Valeur estimée; Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NZL","Nouvelle-Zélande","2015","2015",3.03,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NZL","Nouvelle-Zélande","2016","2016",3.12,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NZL","Nouvelle-Zélande","2017","2017",3.25,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NZL","Nouvelle-Zélande","2018","2018",3.31,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NZL","Nouvelle-Zélande","2019","2019",3.38,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NZL","Nouvelle-Zélande","2020","2020",3.43,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NOR","Norvège","2000","2000",3.38,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NOR","Norvège","2001","2001",3.54,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NOR","Norvège","2002","2002",3.22,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NOR","Norvège","2003","2003",3.23,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NOR","Norvège","2004","2004",3.4,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NOR","Norvège","2005","2005",3.56,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NOR","Norvège","2006","2006",3.73,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NOR","Norvège","2007","2007",3.84,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NOR","Norvège","2008","2008",3.95,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NOR","Norvège","2009","2009",4.05,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NOR","Norvège","2010","2010",4.11,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NOR","Norvège","2011","2011",4.19,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NOR","Norvège","2012","2012",4.23,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NOR","Norvège","2013","2013",4.31,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NOR","Norvège","2014","2014",4.43,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NOR","Norvège","2015","2015",4.45,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NOR","Norvège","2016","2016",4.58,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NOR","Norvège","2017","2017",4.73,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NOR","Norvège","2018","2018",4.86,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NOR","Norvège","2019","2019",4.97,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","NOR","Norvège","2020","2020",5.1,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","POL","Pologne","2000","2000",2.22,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","POL","Pologne","2001","2001",2.27,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","POL","Pologne","2002","2002",2.3,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","POL","Pologne","2003","2003",2.43,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","POL","Pologne","2004","2004",2.29,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","POL","Pologne","2005","2005",2.14,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","POL","Pologne","2006","2006",2.18,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","POL","Pologne","2007","2007",2.19,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","POL","Pologne","2008","2008",2.16,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","POL","Pologne","2009","2009",2.17,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","POL","Pologne","2010","2010",2.19,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","POL","Pologne","2011","2011",2.21,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","POL","Pologne","2012","2012",2.23,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","POL","Pologne","2013","2013",2.24,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","POL","Pologne","2014","2014",2.31,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","POL","Pologne","2015","2015",2.33,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","POL","Pologne","2016","2016",2.42,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","POL","Pologne","2017","2017",2.38,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVK","République slovaque","2000","2000",3.23,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVK","République slovaque","2001","2001",3.22,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVK","République slovaque","2002","2002",3.2,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVK","République slovaque","2003","2003",3.15,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVK","République slovaque","2004","2004",3.15,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ESP","Espagne","2000","2000",3.14,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ESP","Espagne","2001","2001",3.14,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ESP","Espagne","2002","2002",3.13,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ESP","Espagne","2003","2003",3.22,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ESP","Espagne","2004","2004",3.44,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ESP","Espagne","2005","2005",3.55,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ESP","Espagne","2006","2006",3.62,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ESP","Espagne","2007","2007",3.56,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ESP","Espagne","2008","2008",3.54,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ESP","Espagne","2009","2009",3.6,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ESP","Espagne","2010","2010",3.76,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ESP","Espagne","2011","2011",3.84,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ESP","Espagne","2012","2012",3.82,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ESP","Espagne","2013","2013",3.81,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ESP","Espagne","2014","2014",3.8,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ESP","Espagne","2015","2015",3.85,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ESP","Espagne","2016","2016",3.82,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ESP","Espagne","2017","2017",3.88,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ESP","Espagne","2018","2018",4.02,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ESP","Espagne","2019","2019",4.4,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SWE","Suède","2000","2000",3.03,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SWE","Suède","2001","2001",3.12,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SWE","Suède","2002","2002",3.21,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SWE","Suède","2003","2003",3.28,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SWE","Suède","2004","2004",3.37,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SWE","Suède","2005","2005",3.46,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SWE","Suède","2006","2006",3.54,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SWE","Suède","2007","2007",3.63,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SWE","Suède","2008","2008",3.68,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SWE","Suède","2009","2009",3.75,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SWE","Suède","2010","2010",3.81,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SWE","Suède","2011","2011",3.89,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SWE","Suède","2012","2012",3.97,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SWE","Suède","2013","2013",4.04,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SWE","Suède","2014","2014",4.11,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SWE","Suède","2015","2015",4.18,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SWE","Suède","2016","2016",4.23,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SWE","Suède","2017","2017",4.27,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SWE","Suède","2018","2018",4.32,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHE","Suisse","2003","2003",3.65,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHE","Suisse","2004","2004",3.69,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHE","Suisse","2005","2005",3.74,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHE","Suisse","2006","2006",3.79,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHE","Suisse","2007","2007",3.78,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHE","Suisse","2008","2008",3.82,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHE","Suisse","2009","2009",3.83,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHE","Suisse","2010","2010",3.81,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHE","Suisse","2011","2011",3.83,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHE","Suisse","2012","2012",3.92,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHE","Suisse","2013","2013",4.04,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHE","Suisse","2014","2014",4.13,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHE","Suisse","2015","2015",4.2,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHE","Suisse","2016","2016",4.25,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHE","Suisse","2017","2017",4.3,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHE","Suisse","2018","2018",4.34,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHE","Suisse","2019","2019",4.35,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHE","Suisse","2020","2020",4.41,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","GBR","Royaume-Uni","2000","2000",1.98,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","GBR","Royaume-Uni","2001","2001",2.03,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","GBR","Royaume-Uni","2002","2002",2.1,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","GBR","Royaume-Uni","2003","2003",2.19,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","GBR","Royaume-Uni","2004","2004",2.32,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","GBR","Royaume-Uni","2005","2005",2.4,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","GBR","Royaume-Uni","2006","2006",2.45,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","GBR","Royaume-Uni","2007","2007",2.48,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","GBR","Royaume-Uni","2008","2008",2.57,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","GBR","Royaume-Uni","2009","2009",2.64,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","GBR","Royaume-Uni","2010","2010",2.65,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","GBR","Royaume-Uni","2011","2011",2.68,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","GBR","Royaume-Uni","2012","2012",2.7,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","GBR","Royaume-Uni","2013","2013",2.71,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","GBR","Royaume-Uni","2014","2014",2.75,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","GBR","Royaume-Uni","2015","2015",2.77,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","GBR","Royaume-Uni","2016","2016",2.78,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","GBR","Royaume-Uni","2017","2017",2.81,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","GBR","Royaume-Uni","2018","2018",2.84,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","GBR","Royaume-Uni","2019","2019",2.95,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","GBR","Royaume-Uni","2020","2020",3.03,"E","Valeur estimée"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","USA","États-Unis","2000","2000",2.29,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","USA","États-Unis","2001","2001",2.35,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","USA","États-Unis","2002","2002",2.35,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","USA","États-Unis","2003","2003",2.38,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","USA","États-Unis","2004","2004",2.39,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","USA","États-Unis","2005","2005",2.43,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","USA","États-Unis","2006","2006",2.42,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","USA","États-Unis","2007","2007",2.43,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","USA","États-Unis","2008","2008",2.44,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","USA","États-Unis","2009","2009",2.44,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","USA","États-Unis","2010","2010",2.43,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","USA","États-Unis","2011","2011",2.46,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","USA","États-Unis","2012","2012",2.5,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","USA","États-Unis","2013","2013",2.56,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","USA","États-Unis","2014","2014",2.58,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","USA","États-Unis","2015","2015",2.58,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","USA","États-Unis","2016","2016",2.59,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","USA","États-Unis","2017","2017",2.61,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","USA","États-Unis","2018","2018",2.61,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","USA","États-Unis","2019","2019",2.64,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BRA","Brésil","2000","2000",1.36,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BRA","Brésil","2001","2001",1.4,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BRA","Brésil","2002","2002",1.43,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BRA","Brésil","2003","2003",1.48,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BRA","Brésil","2004","2004",1.6,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BRA","Brésil","2005","2005",1.68,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BRA","Brésil","2006","2006",1.71,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BRA","Brésil","2007","2007",1.74,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BRA","Brésil","2008","2008",1.79,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BRA","Brésil","2009","2009",1.83,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BRA","Brésil","2010","2010",1.82,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BRA","Brésil","2011","2011",1.86,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BRA","Brésil","2013","2013",1.89,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BRA","Brésil","2017","2017",2.18,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","BRA","Brésil","2019","2019",2.32,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHN","Chine (République populaire de)","2000","2000",1.24,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHN","Chine (République populaire de)","2001","2001",1.26,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHN","Chine (République populaire de)","2002","2002",1.12,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHN","Chine (République populaire de)","2003","2003",1.17,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHN","Chine (République populaire de)","2004","2004",1.2,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHN","Chine (République populaire de)","2005","2005",1.22,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHN","Chine (République populaire de)","2006","2006",1.25,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHN","Chine (République populaire de)","2007","2007",1.27,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHN","Chine (République populaire de)","2008","2008",1.32,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHN","Chine (République populaire de)","2009","2009",1.4,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHN","Chine (République populaire de)","2010","2010",1.44,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHN","Chine (République populaire de)","2011","2011",1.47,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHN","Chine (République populaire de)","2012","2012",1.55,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHN","Chine (République populaire de)","2013","2013",1.64,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHN","Chine (République populaire de)","2014","2014",1.7,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHN","Chine (République populaire de)","2015","2015",1.78,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHN","Chine (République populaire de)","2016","2016",1.88,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHN","Chine (République populaire de)","2017","2017",1.99,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHN","Chine (République populaire de)","2018","2018",2.11,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","CHN","Chine (République populaire de)","2019","2019",2.24,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","EST","Estonie","2000","2000",2.94,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","EST","Estonie","2001","2001",2.78,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","EST","Estonie","2002","2002",2.96,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","EST","Estonie","2003","2003",3,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","EST","Estonie","2004","2004",3.02,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","EST","Estonie","2005","2005",3.14,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","EST","Estonie","2006","2006",3.18,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","EST","Estonie","2007","2007",3.26,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","EST","Estonie","2008","2008",3.34,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","EST","Estonie","2009","2009",3.28,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","EST","Estonie","2010","2010",3.24,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","EST","Estonie","2011","2011",3.29,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","EST","Estonie","2012","2012",3.28,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","EST","Estonie","2013","2013",3.33,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","EST","Estonie","2014","2014",3.36,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","EST","Estonie","2015","2015",3.41,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","EST","Estonie","2016","2016",3.46,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","EST","Estonie","2017","2017",3.47,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","EST","Estonie","2018","2018",3.48,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","EST","Estonie","2019","2019",3.47,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IND","Inde","2000","2000",0.53,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IND","Inde","2001","2001",0.54,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IND","Inde","2002","2002",0.56,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IND","Inde","2003","2003",0.56,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IND","Inde","2004","2004",0.57,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IND","Inde","2005","2005",0.59,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IND","Inde","2006","2006",0.6,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IND","Inde","2007","2007",0.62,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IND","Inde","2008","2008",0.63,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IND","Inde","2009","2009",0.65,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IND","Inde","2010","2010",0.69,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IND","Inde","2011","2011",0.74,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IND","Inde","2012","2012",0.7,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IND","Inde","2013","2013",0.72,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IND","Inde","2014","2014",0.72,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IND","Inde","2015","2015",0.73,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IND","Inde","2016","2016",0.76,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IND","Inde","2017","2017",0.78,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IND","Inde","2018","2018",0.85,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IND","Inde","2019","2019",0.93,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IDN","Indonésie","2003","2003",0.13,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IDN","Indonésie","2009","2009",0.26,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IDN","Indonésie","2010","2010",0.25,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IDN","Indonésie","2012","2012",0.31,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IDN","Indonésie","2013","2013",0.32,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IDN","Indonésie","2015","2015",0.28,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IDN","Indonésie","2017","2017",0.38,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IDN","Indonésie","2018","2018",0.43,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","IDN","Indonésie","2019","2019",0.47,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISR","Israël","2000","2000",3.45,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISR","Israël","2001","2001",3.27,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISR","Israël","2002","2002",3.28,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISR","Israël","2003","2003",3.36,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISR","Israël","2004","2004",3.34,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISR","Israël","2005","2005",3.22,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISR","Israël","2006","2006",3.02,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISR","Israël","2007","2007",2.99,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISR","Israël","2008","2008",3,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISR","Israël","2009","2009",3,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISR","Israël","2010","2010",3.01,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISR","Israël","2011","2011",3,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISR","Israël","2012","2012",2.97,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISR","Israël","2013","2013",2.94,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISR","Israël","2014","2014",2.98,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISR","Israël","2015","2015",3.07,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISR","Israël","2016","2016",3.08,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISR","Israël","2017","2017",3.14,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISR","Israël","2018","2018",3.22,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ISR","Israël","2019","2019",3.29,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","RUS","Russie","2000","2000",4.64,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","RUS","Russie","2001","2001",4.64,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","RUS","Russie","2002","2002",4.7,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","RUS","Russie","2003","2003",4.75,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","RUS","Russie","2004","2004",4.79,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","RUS","Russie","2005","2005",4.82,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","RUS","Russie","2006","2006",4.93,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","RUS","Russie","2007","2007",4.98,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","RUS","Russie","2008","2008",4.96,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","RUS","Russie","2009","2009",5.01,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","RUS","Russie","2010","2010",5.03,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","RUS","Russie","2011","2011",4.25,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","RUS","Russie","2012","2012",4.03,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","RUS","Russie","2013","2013",4.02,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","RUS","Russie","2014","2014",4.15,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","RUS","Russie","2015","2015",3.9,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","RUS","Russie","2016","2016",3.94,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","RUS","Russie","2017","2017",4.04,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","RUS","Russie","2018","2018",4.08,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","RUS","Russie","2019","2019",4.16,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVN","Slovénie","2000","2000",2.15,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVN","Slovénie","2001","2001",2.17,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVN","Slovénie","2002","2002",2.23,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVN","Slovénie","2003","2003",2.25,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVN","Slovénie","2004","2004",2.3,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVN","Slovénie","2005","2005",2.35,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVN","Slovénie","2006","2006",2.36,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVN","Slovénie","2007","2007",2.39,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVN","Slovénie","2008","2008",2.4,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVN","Slovénie","2009","2009",2.41,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVN","Slovénie","2010","2010",2.43,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVN","Slovénie","2011","2011",2.49,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVN","Slovénie","2012","2012",2.54,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVN","Slovénie","2013","2013",2.63,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVN","Slovénie","2014","2014",2.77,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVN","Slovénie","2015","2015",2.83,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVN","Slovénie","2016","2016",3.01,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVN","Slovénie","2017","2017",3.1,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVN","Slovénie","2018","2018",3.18,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","SVN","Slovénie","2019","2019",3.26,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ZAF","Afrique du Sud","2004","2004",0.74,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ZAF","Afrique du Sud","2007","2007",0.7,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ZAF","Afrique du Sud","2008","2008",0.7,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ZAF","Afrique du Sud","2009","2009",0.71,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ZAF","Afrique du Sud","2010","2010",0.72,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ZAF","Afrique du Sud","2011","2011",0.72,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ZAF","Afrique du Sud","2012","2012",0.73,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ZAF","Afrique du Sud","2013","2013",0.74,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ZAF","Afrique du Sud","2014","2014",0.75,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ZAF","Afrique du Sud","2015","2015",0.78,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ZAF","Afrique du Sud","2016","2016",0.77,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ZAF","Afrique du Sud","2017","2017",0.78,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ZAF","Afrique du Sud","2018","2018",0.79,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","ZAF","Afrique du Sud","2019","2019",0.79,"D","Différence de méthodologie"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LVA","Lettonie","2000","2000",2.88,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LVA","Lettonie","2001","2001",2.69,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LVA","Lettonie","2002","2002",2.79,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LVA","Lettonie","2003","2003",2.83,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LVA","Lettonie","2004","2004",2.92,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LVA","Lettonie","2005","2005",2.96,"B","Rupture"
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LVA","Lettonie","2006","2006",3.03,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LVA","Lettonie","2007","2007",3.14,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LVA","Lettonie","2008","2008",3.23,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LVA","Lettonie","2009","2009",3.15,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LVA","Lettonie","2010","2010",3.11,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LVA","Lettonie","2011","2011",3.13,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LVA","Lettonie","2012","2012",3.14,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LVA","Lettonie","2013","2013",3.19,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LVA","Lettonie","2014","2014",3.22,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LVA","Lettonie","2015","2015",3.2,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LVA","Lettonie","2016","2016",3.21,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LVA","Lettonie","2017","2017",3.21,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LVA","Lettonie","2018","2018",3.3,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LVA","Lettonie","2019","2019",3.27,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LTU","Lituanie","2000","2000",3.63,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LTU","Lituanie","2001","2001",3.63,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LTU","Lituanie","2002","2002",3.7,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LTU","Lituanie","2003","2003",3.67,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LTU","Lituanie","2004","2004",3.63,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LTU","Lituanie","2005","2005",3.72,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LTU","Lituanie","2006","2006",3.79,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LTU","Lituanie","2007","2007",3.88,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LTU","Lituanie","2008","2008",3.88,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LTU","Lituanie","2009","2009",3.85,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LTU","Lituanie","2010","2010",3.95,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LTU","Lituanie","2011","2011",4.1,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LTU","Lituanie","2012","2012",4.22,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LTU","Lituanie","2013","2013",4.28,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LTU","Lituanie","2014","2014",4.31,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LTU","Lituanie","2015","2015",4.34,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LTU","Lituanie","2016","2016",4.47,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LTU","Lituanie","2017","2017",4.56,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LTU","Lituanie","2018","2018",4.6,,
+"PHYSMEDE","Médecins en exercice","DENSPPNB","Densité pour 1 000 habitants (effectifs employés)","LTU","Lituanie","2019","2019",4.57,,
